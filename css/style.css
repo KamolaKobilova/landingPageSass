@@ -1,0 +1,203 @@
+nav {
+  width: 100%;
+  height: 120px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+}
+
+li {
+  margin-left: 25px;
+  list-style: none;
+  font-size: 20px;
+}
+
+.ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.li {
+  margin: 0 30px 0 30px;
+}
+
+.div {
+  display: flex;
+  flex-direction: row;
+  margin-left: 470px;
+}
+
+.btn {
+  width: 170px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: blueviolet;
+  border-color: blueviolet;
+  color: white;
+  font-size: 18px;
+  margin-top: 35px;
+}
+
+.text {
+  margin-top: 50px;
+}
+
+.ul-basic {
+  display: flex;
+  flex-direction: row;
+}
+
+.center {
+  text-align: center;
+  margin: 80px 20px 90px 80px;
+}
+
+.li-item {
+  width: 350px;
+  margin-left: 50px;
+}
+
+.pic {
+  text-align: center;
+}
+
+.strong {
+  text-align: center;
+}
+
+header {
+  background-image: url(../assets/Background.png);
+}
+
+.real {
+  width: 1440px;
+  height: 896px;
+  background-color: #b7ecec;
+}
+
+.re-text {
+  position: relative;
+  top: 100px;
+  left: 150px;
+  line-height: 50px;
+  font-size: 20px;
+}
+
+.col-1 {
+  position: relative;
+  top: 80px;
+  left: 227px;
+}
+
+.col-2 {
+  position: relative;
+  top: -518px;
+  left: 620px;
+}
+
+.col-3 {
+  position: relative;
+  top: -527px;
+  left: 620px;
+}
+
+h1 {
+  margin-bottom: -24px;
+}
+
+.our {
+  width: 300px;
+  position: relative;
+  top: 47px;
+  left: 150px;
+  font-size: 20px;
+}
+
+p {
+  margin-top: 28px;
+}
+
+h6 {
+  margin-top: -20px;
+}
+
+.ul2 {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  top: -105px;
+  left: 589px;
+}
+
+.phones {
+  width: 540px;
+  height: 540px;
+  background-image: url(../assets/BG.png);
+  position: relative;
+  top: 47px;
+  left: 150px;
+}
+
+.headline {
+  width: 400px;
+  position: relative;
+  top: -388px;
+  left: 762px;
+  line-height: 25px;
+}
+
+.ul3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.li3 {
+  margin-left: 96px;
+}
+
+.picture {
+  width: 1440px;
+}
+
+.manage {
+  width: 440px;
+  position: relative;
+  top: 73px;
+  left: 128px;
+}
+
+.containers {
+  width: 1440px;
+  height: 491px;
+  background-color: aqua;
+}
+
+.col-4 {
+  position: relative;
+  top: -36%;
+  left: 643px;
+}
+
+.col-5 {
+  position: relative;
+  top: -521px;
+  left: 911px;
+}
+
+.btns {
+  position: relative;
+  top: -783px;
+  left: 128px;
+}
+
+/*# sourceMappingURL=style.css.map */
